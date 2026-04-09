@@ -28,6 +28,8 @@ POWER BI
 
 ![Output 4](https://github.com/kavikumaran555/Ecommerce-MySQL-to-PowerBI-Project/raw/main/Importing%20Data%20from%20MySQL%20Server%20to%20PowerBI.png)
 
+![Output 5](https://github.com/kavikumaran555/Ecommerce-MySQL-to-PowerBI-Project/raw/main/Data%20Imported%20from%20MySQL%20to%20Power%20BI.png)
+
 ## 🗃 SQL Schema
 
 ```sql
