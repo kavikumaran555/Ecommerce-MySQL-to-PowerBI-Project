@@ -56,4 +56,4 @@ CREATE TABLE order_details (
 
 ONLINE DATABASE:
 
-![Output 2](https://raw.githubusercontent.com/kavikumaran555/Ecommerce-MySQL-to-PowerBI-Project/raw/main/SQL%20Output.png)
+![Output 2](https://github.com/kavikumaran555/Ecommerce-MySQL-to-PowerBI-Project/raw/main/SQL%20Output.png)
