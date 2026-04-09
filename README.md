@@ -16,18 +16,20 @@ The project contains four main tables:
 A final view named `Sales_report_View_Final` is created to combine all tables using SQL joins.
 
 ---
+
+## CREATING TABLE IN MYSQL ##
 ![Output 1](https://github.com/kavikumaran555/Ecommerce-MySQL-to-PowerBI-Project/raw/main/MySQL%20view.png)
 
-SQL DATABASE TABLE
-
+## TABLE OUTPUT IN MYSQL ##
 ![Output 2](https://github.com/kavikumaran555/Ecommerce-MySQL-to-PowerBI-Project/raw/main/SQL%20Output.png)
 
-POWER BI 
-
+## MYSQL DATABASE VIEW ##
 ![Output 3](https://github.com/kavikumaran555/Ecommerce-MySQL-to-PowerBI-Project/raw/main/created%20online%20database.png)
 
+## MYSQL DATABASE CONNECTED TO POWER BI ##
 ![Output 4](https://github.com/kavikumaran555/Ecommerce-MySQL-to-PowerBI-Project/raw/main/Importing%20Data%20from%20MySQL%20Server%20to%20PowerBI.png)
 
+## POWER BI SHOWING DATA IMPORTED FROM MYSQL TABLE ##
 ![Output 5](https://github.com/kavikumaran555/Ecommerce-MySQL-to-PowerBI-Project/raw/main/Data%20Imported%20from%20MySQL%20to%20Power%20BI.png)
 
 ## 🗃 SQL Schema
