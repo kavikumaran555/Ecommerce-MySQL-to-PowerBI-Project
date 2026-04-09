@@ -53,3 +53,6 @@ CREATE TABLE order_details (
   FOREIGN KEY (order_id) REFERENCES orders(order_id),
   FOREIGN KEY (product_id) REFERENCES products(product_id)
 );
+
+ONLINE DATABASE:
+![Output](https://github.com/kavikumaran555/Ecommerce-MySQL-to-PowerBI-Project/raw/main/created%20online%20database.png)
