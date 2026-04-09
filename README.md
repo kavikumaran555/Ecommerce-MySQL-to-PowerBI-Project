@@ -18,6 +18,10 @@ A final view named `Sales_report_View_Final` is created to combine all tables us
 ---
 ![Output 1](https://github.com/kavikumaran555/Ecommerce-MySQL-to-PowerBI-Project/raw/main/MySQL%20view.png)
 
+ONLINE DATABASE
+
+![Output 2](https://github.com/kavikumaran555/Ecommerce-MySQL-to-PowerBI-Project/raw/main/SQL%20Output.png)
+
 ## 🗃 SQL Schema
 
 ```sql
@@ -54,6 +58,3 @@ CREATE TABLE order_details (
   FOREIGN KEY (product_id) REFERENCES products(product_id)
 );
 
-ONLINE DATABASE:
-
-![Output 2](https://github.com/kavikumaran555/Ecommerce-MySQL-to-PowerBI-Project/raw/main/SQL%20Output.png)
