@@ -18,9 +18,13 @@ A final view named `Sales_report_View_Final` is created to combine all tables us
 ---
 ![Output 1](https://github.com/kavikumaran555/Ecommerce-MySQL-to-PowerBI-Project/raw/main/MySQL%20view.png)
 
-ONLINE DATABASE
+SQL DATABASE TABLE
 
 ![Output 2](https://github.com/kavikumaran555/Ecommerce-MySQL-to-PowerBI-Project/raw/main/SQL%20Output.png)
+
+POWER BI 
+
+![Output 3](https://github.com/kavikumaran555/Ecommerce-MySQL-to-PowerBI-Project/raw/main/created%20online%20database.png)
 
 ## 🗃 SQL Schema
 
