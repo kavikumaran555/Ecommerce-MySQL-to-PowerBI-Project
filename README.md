@@ -16,6 +16,7 @@ The project contains four main tables:
 A final view named `Sales_report_View_Final` is created to combine all tables using SQL joins.
 
 ---
+![Output](https://github.com/kavikumaran555/Ecommerce-MySQL-to-PowerBI-Project/raw/main/MySQL%20view.png)
 
 ## 🗃 SQL Schema
 
